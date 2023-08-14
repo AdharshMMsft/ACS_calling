@@ -19,9 +19,14 @@
   "homepage": "https://github.com/AdharshMMsft/ACS_calling#readme",
   "dependencies": {
     "@azure/communication-calling": "^1.15.2",
-    "@azure/communication-common": "^2.2.1"
+    "@azure/communication-common": "^2.2.1",
+    "webpack-dev-server": "^4.15.1"
   },
   "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
     "parcel": "^2.9.3"
+   
   }
 }
